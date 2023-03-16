@@ -1,0 +1,9 @@
+{
+    "template1": "beijing-结算票据单-demo.lrxml",
+    "template2": "ReportListDemo.lrxml",
+    "template3": "库存调拨单.lrxml",
+    "template4": "customizingtemplate.lrxml",
+    "2afdeef0c59f4414aa1b7763e7b4fdca": "beijing-结算票据单-demo.lrxml",
+    "coordinate_print_template" : "coordinate_print_template.lrxml",
+    "customizingtemplate" : "degree_lv3_mother_template.lrxml"
+}

@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/SysTrayIcon">
+        <file>Resources/logo_small.ico</file>
+        <file>Resources/logo.ico</file>
+        <file>Resources/logo_small.png</file>
+        <file>Resources/logo.png</file>
+    </qresource>
+    <qresource prefix="/Script">
+        <file>Resources/json2.txt</file>
+    </qresource>
+</RCC>
